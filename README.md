@@ -4,4 +4,4 @@ Created simple linear regression model and deployed in flask
 ......
 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://github.com/rajeshkumar-2411/Simple-linear-regression-and-Flask/blob/main/Static/ezgif.com-gif-maker.gif" width="400" height="400" />
